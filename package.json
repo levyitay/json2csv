@@ -1,5 +1,5 @@
 {
-  "name": "json2csv",
+  "name": "json2csv_itay",
   "preferGlobal": "true",
   "version": "4.2.1",
   "description": "Convert JSON to CSV",
